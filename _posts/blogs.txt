@@ -1,0 +1,20 @@
+GR20
+Mexico
+Rennovations (garden)
+Rennovations (kitchen)
+Rennovations (lounge)
+Rennovatuons (Demo)
+
+API's & contract testing
+
+Benefits of a data model Title = something about modelling
+
+Dumming down design?
+
+The architect's trap
+
+Deep end learning
+
+Sabbatical - thoughts on a break
+
+

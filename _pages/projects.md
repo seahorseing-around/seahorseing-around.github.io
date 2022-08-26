@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I'm always ~~tampering with~~ working on something. Have a looke then let me know what you think!
+description: I'm always working on something, let me know what you think!
 nav: true
 nav_order: 2
 display_categories: [work, fun, engineering, iot]
