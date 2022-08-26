@@ -16,7 +16,7 @@ footer_text: >
 keywords: iot, architecture, scouts, outdoors, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌄  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⛺  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 #🏕🌄⛺🥏⚜🛠🔧⚙🧰
 
 url: https://seahorseing-around.github.io/ # the base hostname & protocol for your site
@@ -105,7 +105,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: a scout in london # blog_name will be displayed in your blog page
 blog_nav_title: 'a scout in london' # your blog must have a title for it to be displayed in the nav bar
-blog_description: Craig's Blog
+blog_description: "I'm just not the sort of person to live in a big city ..."
 permalink: /blog/:year/:title/
 
 # Pagination
