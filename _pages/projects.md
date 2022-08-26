@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I'm always ~~tampering with~~ working on something. Have a looke then let me know what you think!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, engineering, iot]
 horizontal: false
 ---
 
