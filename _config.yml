@@ -87,7 +87,7 @@ stackoverflow_id: #your stackoverflow id
 instagram: ascoutinlondon
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Get in touch!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -103,8 +103,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: a scout in london # blog_name will be displayed in your blog page
+blog_nav_title: 'a scout in london' # your blog must have a title for it to be displayed in the nav bar
 blog_description: Craig's Blog
 permalink: /blog/:year/:title/
 

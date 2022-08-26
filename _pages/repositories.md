@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: My Repositories
-description: Checkout my Repos and a few that I think are useful/interesting
+title: repositories
+description: Checkout my repos and a few that I think are useful and /or interesting
 nav: true
 nav_order: 3
 ---
