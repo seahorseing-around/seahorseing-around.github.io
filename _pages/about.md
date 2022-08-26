@@ -23,6 +23,6 @@ social: true  # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-While it was work that brought the Scout to the city, it's the community that kept him here. Between my Scout Group <a href="westsidescouts.org" >12/14th St Lukes</a>, the london Frisbee community and surplus bouldering walls there's plenty to keep a outdoorsy person busy!
+While it was work that brought the Scout to the city, it's the community that kept him here. Between my Scout Group <a href="https://westsidescouts.org" >12/14th St Lukes</a>, the london Ultimate Frisbee community and surplus bouldering walls there's plenty to keep a outdoorsy person busy!
 
-While my big project this past year has been rennovating my new flat, when not in my hammock I also enjoy to keep myself busy with miniature iot projects, checkout my projects section to see more!
+While my big project this past year has been rennovating my new flat. That's taken up a lot of time but when not sanding, sawing or drilling (or taking a break in a hammock) I also enjoy creating iot projects including a mousetrap, home theatre and a puzzle box. Checkout my <a href="/projects">projects<a> section to see more!
