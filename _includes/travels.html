@@ -1,0 +1,21 @@
+<!-- _includes/travels.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if travel.redirect -%}
+  <a href="{{ travel.redirect }}">
+    {%- else -%}
+    <a href="{{ travel.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if travel.img %}
+        {%- include figure.html
+          path=travel.img
+          alt="travel thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ travel.title }}</h2>
+          <p class="card-text">{{ travel.description }}</p>
+        </div>
+      </div>
+    </a>
+</div>
