@@ -1,52 +1,38 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Pucket Puzzle
+description: This is a puzzle box I made for my friend John. I think he's yet to crack it but maybe if he finds this site he'll get a clue!
+img: assets/img/pucket/header.png
 importance: 1
-category: work
+category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project started when John surprised me with a gift at the end of a Frisbee tournament. The gift in question was a puzzle box he had made. Having become interested in locking mechanisms he constructed the puzzle from a shoebox, spinning cardboard locks, lollypop sticks and party poppers for extra excitement. The puzzle was solved by deciphering clues on the box to spell out the codeword "Netherland", our ingenious Ultimate Frisbee play.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Of course I had a great time solving this and the only way to respond was in kind... Only, for unstated reasons in 2020 I found myself at home with too much time on my habds any things escalated...
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I knew I wanted a layered puzzle, so the design process began with brainstorming things I knew John would like. This meant games, either ones which could be shared or would challenge him personally. I also wanted it to be something he could enjoy after having solved it. This naturally led me to traditional wooden pub games. _The other advantage of these is they don't require any delicate woodworking_
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pucket/skittles.png" title="Pub Skittles" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pucket/pucket.webp" title="Pucket" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pucket/quiotes.webp.jpg" title="Quiotes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    On the left, pub skittles. Middle, Pucket. Right, Quiotes.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+My clear favourite (based on enjoyment and tools available) is Pucket. It's an intense, 2 player, adrenaline fuelled game that demands speed and accuracy while threatening to crush finger tips between pucks. Great game! 10/10! 
 
+Now that's the easy part, a wooden game the next part was something more challenging. 
+
+One day inbetween lectures a poor recruiter offered john a chance to play
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
