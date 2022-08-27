@@ -21,7 +21,7 @@ I knew I wanted a layered puzzle, so the design process began with brainstorming
         {% include figure.html path="assets/img/pucket/pucket.webp" title="Pucket" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pucket/quiotes.webp.jpg" title="Quiotes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pucket/quiotes.webp" title="Quiotes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +34,7 @@ Now that's the easy part, a wooden game the next part was something more challen
 
 One day inbetween lectures a poor recruiter offered john a chance to play
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center"fgx>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
