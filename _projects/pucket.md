@@ -32,7 +32,7 @@ My clear favourite (based on enjoyment and tools available) is Pucket. It's an i
 
 Now that's the easy part, a wooden game the next part was something more challenging. 
 
-One day inbetween lectures a poor recruiter offered john a chance to play
+One day inbetween lectures a poor recruiter offered john a chance to play one of these reaction based button pressing games. John proceeded to spend all day trying to get the high score, scaring off any other potential recruitees and I suspect never even finding out himself what the company was he spent all day with.
 
 <div class="row justify-content-sm-center"fgx>
     <div class="col-sm-8 mt-3 mt-md-0">
